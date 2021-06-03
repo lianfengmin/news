@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20826f"],{a428:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"tel-container"},[n._v("通讯录")])},c=[],r={name:"Telphone",data:function(){return{}}},s=r,u=t("2877"),i=Object(u["a"])(s,a,c,!1,null,"968cae9c",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d20826f.4ac7bed6.js.map
